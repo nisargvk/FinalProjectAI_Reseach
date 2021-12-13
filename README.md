@@ -1,1 +1,3 @@
 # FinalProjectAI_Reseach
+
+Our paper is basically having the brief of the tutorial for building a model in regression and firstly we see what models are there and after we get the data from the dataset after which we compare the models and create model our target value from the dataset is total_UPDRS value and we basically find the accuracy and performance metrics with all such steps given in the tutorial. In this paper we use ada also known as AdaBoost Regressor, dt & lightgbm and among them decision tree regressor is quite good performance metrics which we see gradually in the different values printed progressively
